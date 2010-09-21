@@ -11,14 +11,16 @@ We aim to help bridge this growing democratic disconnect, in the belief that the
 
 OpenAustralia.org reimagines the otherwise dry text of the Hansard, the official proceedings of Parliament, as a living text that is easily searchable, browseable and accessible as never before.
 
-It is also the first (and so far only) website that publishes the Federal Register of Interests online. These documents say what bank accounts Senators and Representatives possess, what gifts they've received, shares they own. Anything, in fact, which has the potential to prejudice their decisions in Parliament.
+It is also the first (and so far only) website that publishes the Federal Register of Interests online. These documents say what bank accounts Senators and Representatives possess, what gifts they've received and shares they own. Anything, in fact, which has the potential to prejudice their decisions in Parliament.
 
 We're proud that we've affected the functioning of Parliament for good: from the beginning of the 43rd (??) Parliament, directly as a result of our actions, Parliament will now be publishing the Register of Interests on its own website. This is fantastic news.
+
+We're confident that this would not have happened so quickly had we not done what we did.
 
 PlanningAlerts.org.au
 =====================
 
-You'd probably know if your next door neighbour was going to knock their house down (you'd get a letter through the door telling you they had applied for planning permission and asking you what you thought about it). But you'd probably never find out if the old cinema or pub 5 streets away is going to be converted into luxury flats until the bulldozers turned up.
+You'd probably know if your next door neighbour was going to knock their house down. But you'd probably never find out if the old cinema or pub 5 streets away is going to be converted into luxury flats until the bulldozers turned up.
 
 PlanningAlerts.org.au is a free service which searches as many planning authority websites as it can find and emails you details of applications near you. The aim of this to enable shared scrutiny of what is being built (and knocked down) in peoples' communities.
 
@@ -49,6 +51,8 @@ We launched the project on July 21 2010, just a few weeks before 2010's Federal 
 What people have said about us and our projects
 ===============================================
 
+<Images of people saying the quotes for the home page>
+
 ElectionLeaflets.org.au
 -----------------------
 “...www.electionleaflets.org.au... The Wikileaks of #ausvotes pamphlets!” - Annabel Crab, ABC Online's chief political writer
@@ -73,6 +77,10 @@ PlanningAlerts.org.au
 
 "Thanks all - brilliant service." - Pru Davison
 
+"Councils spend a lot of time putting ads in the paper, signs on sites and writing to people but it is not always easy to identify the community of interest for a particular development proposal or approval. I see Planning Alerts as a supplement to the statutory notification we undertake and provides us with greater reach as a result." - John Carmichael, Director Environment & Planning, Mosman Council
+
+<Insert quote from Reem>
+
 OpenAustralia.org
 -----------------
 "Your website is nothing short of brilliant. As a father of a severely 42 year old disabled daughter I can ascertain if politicians are representing these unfortunate members of the community as they assure us they are. When they make assuring statements out in the community we can now monitor their actions, conviction and utterances in Parliament. Sincere thanks" - Brian O'Hart
@@ -89,16 +97,21 @@ OpenAustralia.org
 
 "I can't express how much I wish OpenAustralia well (and how much I wish it was my idea). Well done." - Simon Elvery
 
+<Insert quote from Lord Allen>
+
 Meet our board
 ==============
  
-Matthew Landauer
+Dr. Matthew Landauer
 
 <photos>
 
 
-An introductory complimentary statement.... so its just as well he is quite simply the powerhouse behind the OpenAustralia Foundation. The majority of code generated for PlanningAlerts and OpenAustralia was contributed by Matthew. He's also the public face of the OpenAustralia Foundation, ... speaking engagements and presentations at government &amp; technical.... (full sentence please). Full time.
- 
+An introductory complimentary statement.... so its just as well he is quite simply the powerhouse behind the OpenAustralia Foundation. The majority of code generated for PlanningAlerts and OpenAustralia was contributed by Matthew. He's also the public face of the OpenAustralia Foundation, ... speaking engagements and presentations at government & technical.... (full sentence please). Full time.
+
+<short academic history>
+<Visual Appliance>
+
 Kat Szuminska
 
 <photos>
@@ -115,36 +128,6 @@ Helen Reynolds
  
 Helen is OpenAustralia's public officer. Her experience in Australian non profit organisations and her knowledge of legal issues keep OpenAustralia Foundation in the loop and on the level.
  
-Advisory Board
-==============
-
-The OpenAustralia Foundation's Advisory Board, is a bunch of the awesomest individuals we could find who share our passion for democracy, transparency and finding new and exciting ways to bring them bang up to date with the way we live today.  They're strategic thinkers who can advise the board across the range of areas spanned by the organisation and projects. The advisory board members hold no voting rights or other legal association with the OpenAustralia Foundation.
-
-Martin Stewart-Weeks
-Mia Garlick
-Alan Noble
-Lisa Harvey
-
-Person 1
- 
-One of our earliest supporters, xxx has invaluable. /QUOTATION
- 
-Person 2
- 
-We couldn't have an advisory board without xxx who brings a wealth of knowledge and experience in xxx. /QUOTATION
- 
-Person 3
- 
-xxx's previous foray into democratic transparency quickly earned him our respect and motivated our invitation to join the board. /QUOTATION
- 
-Person 4
- 
-Connection with community groups is an area we have a lot of work to do in the coming year. While we aim to make better tools for everyone, there are groups who ... /QUOTATION
- 
-Person 5
- 
-Communities are all made up of people, how people work with the tools they're given depends on the success of the design of the tool. Don't we all want a well designed interface to democracy?  /QUOTATION
-
 How we work
 ===========
  
@@ -165,23 +148,19 @@ Well I started to write something here, and I think someone else who has a deepe
 About
 =====
 
-Our Vision
+Our <vision> is, quite simply, to <transform democracy in Australia>
  
-Quite simply to transform democracy in Australia.
- 
-Our Mission
- 
-Give millions of Australians a better opportunity to participate in making decisions that affect them.
- 
-(or something slightly better than that...)
- 
+Our mission is to give millions of Australians the tools to affect the change that they want.
+  
 The OpenAustralia Foundation is a pioneering new Australian charity, which makes tools for 21st century democracy.
  
-The OpenAustralia Foundation is creating technologies to enable and encourage the Australian public to participate directly in, and affect the political process and solve local problems together in everyday civic life. We have begun by developing the websites OpenAustralia.org, PlanningAlerts.org.au and ElectionLeaflets.org.au
+The OpenAustralia Foundation is creating technologies to enable and encourage the Australian public to participate directly in, and affect the political process and solve local problems together in everyday civic life. To realise this grand vision, we have begun by developing the websites OpenAustralia.org, PlanningAlerts.org.au and ElectionLeaflets.org.au.
+
+These are some of the building blocks on the road.
 
 To do this we are finding better ways of making government, public sector and other useful information freely and easily available for the benefit of all Australians.
 
-The OpenAustralia Foundation is a charitable institution which facilitate these projects and others like it on an ongoing basis. It also is there to support the broader agenda of reinvigorating Australia's civic culture by inciting a new wave of technology for the common good. But we're not the government. We are strictly non-partisan. We are passionate about making our democracy work. We can put exciting and powerful technology in the hands of the people. But we're not web developers.
+The OpenAustralia Foundation is a charitable institution which facilitate these projects and others like it on an ongoing basis. It also is there to support the broader agenda of reinvigorating Australia's civic culture by inciting a new wave of technology for the common good. But we're not the government. We are strictly non-partisan. We are passionate about making our democracy work. We can put exciting and powerful technology in the hands of the people.
  
 In democracies around the world there is a growing disconnect between the people who are elected to govern and those who put them there. We're part of a growing worldwide movement to help do something about that. We are part of this community.
  
@@ -189,7 +168,22 @@ History
  
 Back in 2004 Matthew Landauer and Katherine Szuminska were lucky enough to accidently find themselves at the launch of the UK site TheyWorkForYou.com at a nerdy techno conference, NotCon 2004. The talk inspired them hugely and they left with a desire to make this happen in Australia too. It took a few years, other people came on board to help and here you can see the fruits of their labour.
  
-The project was kick-started in November 2007 when Matthew, supported by Rising Sun Pictures, was given the oppurtunity to take a week of paid charity leave to develop the first, very rough, prototype of OpenAustralia.
+The project was kick-started in November 2007 when Matthew, supported by his then employer Rising Sun Pictures, was given the oppurtunity to take a week of paid charity leave to develop the first, very rough, prototype of OpenAustralia.org.
+
+<Timeline of different things we have done so far - major milestones>
+
+* Initial prototype of OpenAustralia.org
+* Private beta testing of site
+* Public launch of OpenAustralia.org
+* First OpenAustralia Hackfest
+* Formation of OpenAustralia Foundation
+* Deductible Gift Recipient Status
+* Funding confirmed for PlanningAlerts.org.au
+* Launch of PlanningAlerts.org.au
+* Rebuild of PlanningAlerts.org.au
+* Apps4NSW Hackfest
+* 2010 Federal Election announced
+* Launch of ElectionLeaflets.org.au
  
 The Foundation was registered in July 2009 and awarded charitable tax concessions (Deductive Gift Recipient Status and TCC) by the Australian Tax Office soon afterwards.
 
@@ -218,28 +212,44 @@ We promise to provide free and easy access to information, in a way that's usefu
 5. to provide content and software under an open licence wherever practicable;
 
 6. to create a network for related local, online and library communities
- 
+
+<Give a plain English explanation of objects. Explain relation of objects to rest of constitution>
+
 In one way, our constitution is alot like the constitution of any non profit company. We shortened it a bit, and added some stuff about existing and doing our work online. There are also some clauses in there which specifically deal with us being a charity.
  
-How its different is that we consider it a working document, which we hope to improve. One day we'd like this to be readable to the average human being living in Australia as well as still legally acceptable. If you're going to have laws and expect people to adhere to them, its only reasonable that most people should be able to understand the language spoken in legal documents and in the legislation itself too. If you're a lawyer and have a passion for openness transparency and people power we'd love to hear from you.
+How its different is that we consider it a working document, which we hope to improve. One day we'd like this to be readable to the average human being living in Australia as well as still legally acceptable. If you're going to have laws and expect people to adhere to them, its only reasonable that most people should be able to understand the language spoken in legal documents and in the legislation itself too. If you're a lawyer and have a passion for openness transparency and people power we'd love to hear from you. ** improve **
  
 (links to) constitution in full - charity law - contracts we have signed - about open source and creative commons.
  
-Read the constitution online
- 
-Download the complete constitution
+Read the full constitution
  
 Get Involved
 ============
 
+<Why it's great to get involved. What I get out of it>
+
 Get involved
+
+Legal - advice, drafting agreements. Constitutional and copyright law
+Financial - Tax advice, auditing, accounting
+Publicity
+Writing - Edit & Draft - write for any of our websites
+Design - service design
+Programming
+Systems Administration
+Make suggestions
+Report bugs / problems
+Fundraising
  
 Make a suggestion
+
+Suggest an improvement to one of the existing services. Have an ideas for a new service? Let us know!
  
 Help maintain our existing projects
  
 Collaborate on new projects
- 
+
+<Events should be a subsection>
 Contribute to events
 * Give a talk - share your work, knowledge, ideas
 * Document the event - video, photography, blog
@@ -252,34 +262,34 @@ OpenAustralia exists to help connect people with information about their governm
 How would you like to get involved?
 I'd like to use my technical skills to help the OpenAustralia project.
  
-* download the source from  <a href="http://software.openaustralia.org/">software.openaustralia.org</a>
+* download the source from software.openaustralia.org
 * Come to an OpenAustralia hackfest (subscribe to be notified of upcoming events)
 * Start your own OpenAustralia Hackfest (ask us how)
 
+<Somewhere else>
 I'd like to use OpenAustralia in my community
  
 * Educator
 * Community organiser
 * Journalist
 * Blogger
+</Somewhere else>
 
-I'd like to spread the word and get other people using OpenAustralia:
- 
-<ul>
-<li>Show your support, or talk to us via  <a href="http://twitter.com/openaustralia">twitter </a>or <a href="http://www.facebook.com/openaustralia#/pages/OpenAustralia/59877428354?ref=ts">facebook</a></li>
-<li>Write a blog about how you're using OpenAustralia, we love hearing from you</li>
-<li>Report a bug/Share an idea -  email us via contact [at] openaustralia dot org, or add your requests to <a href="http://tickets.openaustralia.org">tickets.openaustralia.org. </a></li>
-<li>Give a talk about OpenAustralia in your community (ask us how)</li>
-</ul>
+* Show your support, or talk to us via twitter or facebook
+* Write a blog about how you're using OpenAustralia, we love hearing from you
+* Report a bug/Share an idea -  email us via contact@openaustralia.org, or add your requests to tickets.openaustraliafoundation.org.au.
+* Give a talk about OpenAustralia in your community (ask us how)
  
 Donate
 ======
 
-It is unbelievable and incredible what the OpenAustralia Foundation and its amazing volunteers have achieved with virtually no funding.
+It is unbelievable and incredible what the OpenAustralia Foundation and its amazing volunteers have achieved with minimal funding.
 
 Imagine what the OpenAustralia Foundation could achieve with your financial support!
 
 Make a Donation
+
+We will use these funds to expand and improve the current services as well as create new ones.
 
 Thank you for considering a donation to our work.
 OpenAustralia uses Paypal which is a cost effective and secure way to donate online. We will put your donation to work straight away!
@@ -293,7 +303,8 @@ _______ Australian Dollars (AUD)
 Volunteers and your donations are all that keeps the site going.
  
 If you'd prefer to make a donation in another way please email contact@openaustraliafoundation.org.au or call Kat 0424 563 654.
- 
+<Postal address for donations>
+
 Donate/Support Us
 The OpenAustralia Foundation depends on the generous support of a range of people and organisations. Here's some information about how you can support our work and, if you want to, find out more about aspects that may be of particular interest to you.
 case studies
