@@ -226,59 +226,45 @@ Read the full constitution
 Get Involved
 ============
 
+Why volunteer?
+--------------
 <Why it's great to get involved. What I get out of it>
+<purpose>: Do something that really matters and make a difference to the world.
+<mastery>: Master new skills
+<self determination>: Work on what interests and excites you. You decide how much and when.
 
-Get involved
-
-Legal - advice, drafting agreements. Constitutional and copyright law
-Financial - Tax advice, auditing, accounting
-Publicity
-Writing - Edit & Draft - write for any of our websites
-Design - service design
-Programming
-Systems Administration
-Make suggestions
-Report bugs / problems
-Fundraising
- 
-Make a suggestion
+How can you help?
+-----------------
+You don't need to have any specialist knowledge:
+* Make suggestions: Have an ideas for a new service? Let us know!
+* Report bugs / problems
+* Show people in your community how they can use OpenAustralia Foundation's projects to find things out and get things done
 
 Suggest an improvement to one of the existing services. Have an ideas for a new service? Let us know!
- 
-Help maintain our existing projects
- 
-Collaborate on new projects
 
-<Events should be a subsection>
-Contribute to events
-* Give a talk - share your work, knowledge, ideas
-* Document the event - video, photography, blog
-* Use your skills - developers, designers, writers, all are welcome
+If you do have specialist skills these are some of the areas where we need help:
+* Legal - advice, drafting agreements. Constitutional and copyright law
+* Financial - Tax advice, auditing, accounting
+* Publicity
+* Writing - Edit & Draft - write for any of our websites
+* Design - service design
+* Software / Web development
+* Systems Administration
+* Fundraising
 
-Click to register your interest
+Help develop new projects, extend the current ones or help maintain the current services.
 
-OpenAustralia exists to help connect people with information about their government. If you are a user, volunteer or technical developer, there are a number of ways you can get involved to help the project grow and get more people using it.
+How much time?
+--------------
+It's up to you how much time you want to put in. It could be anywhere from half an hour every few weeks to several hours per week. The more time you put in the more you'll get out of it.
 
-How would you like to get involved?
-I'd like to use my technical skills to help the OpenAustralia project.
- 
-* download the source from software.openaustralia.org
-* Come to an OpenAustralia hackfest (subscribe to be notified of upcoming events)
-* Start your own OpenAustralia Hackfest (ask us how)
+<Sign up now> <Register your interest in volunteering>
 
-<Somewhere else>
-I'd like to use OpenAustralia in my community
- 
-* Educator
-* Community organiser
-* Journalist
-* Blogger
-</Somewhere else>
+Events
+------
+We also run events to get a whole bunch of great people together in a big room to build things together. If you would like to come along register your interest. If you would like help organise or run an event let us know! If you want to organise an OpenAustralia Foundation event in your local area even better!
 
-* Show your support, or talk to us via twitter or facebook
-* Write a blog about how you're using OpenAustralia, we love hearing from you
-* Report a bug/Share an idea -  email us via contact@openaustralia.org, or add your requests to tickets.openaustraliafoundation.org.au.
-* Give a talk about OpenAustralia in your community (ask us how)
+Here are some pictures from some of the previous events we've run.
  
 Donate
 ======
