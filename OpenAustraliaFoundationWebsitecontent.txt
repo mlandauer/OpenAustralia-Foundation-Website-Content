@@ -1,32 +1,35 @@
 ﻿This is a scratchpad for website content for the OpenAustralia Foundation website
 
+
 OpenAustralia.org
 =================
 
 OpenAustralia.org is the easiest way to find out and keep tabs what your Representatives and Senators are saying and doing in Parliament on your behalf.
 
-For all its faults and foibles, our democracy is a profound gift from previous generations. Yet most people don't know the name of their representative, let alone what they do or say in their name.
+For all its faults and foibles, our democracy is a profound gift from previous generations. Yet many people don't know the name of their representative, let alone what they do or say in their name.
 
 We aim to help bridge this growing democratic disconnect, in the belief that there is little wrong with Parliament that a healthy mixture of transparency and public engagement won't fix.
 
-OpenAustralia.org reimagines the otherwise dry text of the Hansard, the official proceedings of Parliament, as a living text that is easily searchable, browseable and accessible as never before.
+OpenAustralia.org breathes life into the dry text of the Hansard, the official proceedings of Parliament, by making it easily searchable, browseable and accessible as never before.
 
-It is also the first (and so far only) website that publishes the Federal Register of Interests online. These documents say what bank accounts Senators and Representatives possess, what gifts they've received and shares they own. Anything, in fact, which has the potential to prejudice their decisions in Parliament.
+It is also the first (and so far only) website that publishes the Federal Register of Interests online. * These documents say what bank accounts Senators and Representatives possess, what gifts they've received and shares they own. Anything, in fact, which has the potential to prejudice their decisions in Parliament.
 
 We're proud that we've affected the functioning of Parliament for good: from the beginning of the 43rd (??) Parliament, directly as a result of our actions, Parliament will now be publishing the Register of Interests on its own website. This is fantastic news.
 
 We're confident that this would not have happened so quickly had we not done what we did.
 
+*http://www.aph.gov.au/house/committee/pmi/Publication%2520of%2520details%2520report.pdf
+
 PlanningAlerts.org.au
 =====================
 
-You'd probably know if your next door neighbour was going to knock their house down. But you'd probably never find out if the old cinema or pub 5 streets away is going to be converted into luxury flats until the bulldozers turned up.
+You'd probably know if your next door neighbour was going to knock their house down. But you' might live in blissful ignorance that your favorite old cinema or pub 5 streets would never reopen because its going be converted into luxury flats, until the bulldozers turned up that is.
 
 PlanningAlerts.org.au is a free service which searches as many planning authority websites as it can find and emails you details of applications near you. The aim of this to enable shared scrutiny of what is being built (and knocked down) in peoples' communities.
 
 It is also a fantastic way of keeping in touch with your community. Find out about restaurants that are opening, pubs that are changing their hours or church halls that are building extensions.
 
-PlanningAlerts.org.au is the most straightforward way to find out what planning and development applications have been proposed for your local neighbourhood.
+PlanningAlerts.org.au is the single most straightforward way to find out what planning and development applications have been proposed in your street and in you local neighbourhood.
 
 Become a 21st century curtain twitcher!
 
