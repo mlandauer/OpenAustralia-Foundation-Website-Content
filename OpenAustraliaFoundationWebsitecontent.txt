@@ -183,25 +183,36 @@ We regard our constitution as a work in progress, one which we'd like not only t
  
  
 Get Involved
-============
+============ 
+
+The OpenAustralia Foundation is a fully registered Tax Deductible Charity. 
+
+We rely on donations for our continued existence - donations of money and donations of time and expertise. 
+There are many new projects that we'd like to do but simply don't have the time or indeed the money to be able to.  These include but are by no means limited to: 
+
+* extending OpenAustralia.org to include all State and Territory parliaments
+* including information on how each local member votes in Federal Parliament
+* Extending planning alerts to cover every local authority in Australia (the world???)
+* listing the contact information for all Members of Parliament
+* developing new projects like 'Fix my street' where people can use technology to lobby and track essential community development work
+* creating ElectionLeaflets.org.au for all State and Territory elections
+* establishing an annual competition to recognize civic projects developed by non-government web-developers
+
+providing support and expertise to enable other community building and civic engagment web projects  
+If you have other ideas about what we could do please contact us, we'd love to hear from you. 
 
 Why volunteer?
---------------
-<Why it's great to get involved. What I get out of it>
-<purpose>: Do something that really matters and make a difference to the world.
-<mastery>: Master new skills
-<self determination>: Work on what interests and excites you. You decide how much and when.
+-------------- 
+It's very easy to see things in your community, neighbourhood or indeed country that could do with improvement. It's just as easy to do something about it.  Volunteering gives you a way of achieving something that really matters, that actually makes a difference, to the world and to yourself and you may just master a new skill in the process. 
 
 How can you help?
------------------
-You don't need to have any specialist knowledge:
-* Make suggestions: Have an ideas for a new service? Let us know!
-* Report bugs / problems
-* Show people in your community how they can use OpenAustralia Foundation's projects to find things out and get things done
+----------------- 
+The OpenAustralia Foundation is always looking for people to help us.  Your input could be as simple but necessary as: 
+* Making a suggestion - maybe you have an idea for something new we could be doing
+* Reporting bugs / problems with our websites
+* Showing people in your community how they can use OpenAustralia Foundation's projects to find things out and get things done 
 
-Suggest an improvement to one of the existing services. Have an ideas for a new service? Let us know!
-
-If you do have specialist skills these are some of the areas where we need help:
+Or if you do have specialist skills we'd welcome your efforts in the following areas: 
 * Legal - advice, drafting agreements. Constitutional and copyright law
 * Financial - Tax advice, auditing, accounting
 * Publicity
@@ -211,56 +222,35 @@ If you do have specialist skills these are some of the areas where we need help:
 * Systems Administration
 * Fundraising
 
-Help develop new projects, extend the current ones or help maintain the current services.
+Your time and expertise will help us develop new projects, or help us maintain, extend and improve our current projects. 
 
 How much time?
 --------------
-It's up to you how much time you want to put in. It could be anywhere from half an hour every few weeks to several hours per week. The more time you put in the more you'll get out of it.
+It's up to you how much time you want to put in. It could be anywhere from half an hour every few weeks to several hours per week. The more time you put in the more you'll get out of it. 
 
 <Sign up now> <Register your interest in volunteering>
 
 Events
 ------
-We also run events to get a whole bunch of great people together in a big room to build things together. If you would like to come along register your interest. If you would like help organise or run an event let us know! If you want to organise an OpenAustralia Foundation event in your local area even better!
+The OpenAustralia Foundation runs great events like our hackfests where we bring together volunteers to work on building projects together and we have a fair amount of fun in the process.  If you'd like to be involved in one of our events don't hesitate to contact us.  Or perhaps you'd like to organise an OpenAustralia Foundation event in your local area? Even better!  We're open to hearing your ideas. 
 
 Here are some pictures from some of the previous events we've run.
  
 Donate
 ======
 
-It is unbelievable and incredible what the OpenAustralia Foundation and its amazing volunteers have achieved with minimal funding.
+To date the OpenAustralia Foundation has achieved much on minimal funding and generous volunteer input.  To maintain the services we offer and to build new and exciting projects however, we need the financial support of the public. 
+We're very proud of what we have achieved and would like to continue growing and providing a free service to the community.  Your donations will help us do this. 
+So, please make a fully tax-deductible Donation.  We will put your donation to work straight away. 
 
-Imagine what the OpenAustralia Foundation could achieve with your financial support!
+Make your donation by Paypal (a cost effective and secure way to donate online) here 
 
-Make a Donation
-
-We will use these funds to expand and improve the current services as well as create new ones.
-
-Thank you for considering a donation to our work.
-OpenAustralia uses Paypal which is a cost effective and secure way to donate online. We will put your donation to work straight away!
-
-_______ Australian Dollars (AUD)
-
- --------
+_______ Australian Dollars (AUD) 
+--------
 | donate |
- --------
- 
-Volunteers and your donations are all that keeps the site going.
- 
-If you'd prefer to make a donation in another way please email contact@openaustraliafoundation.org.au or call Kat 0424 563 654.
-<Postal address for donations>
+--------
 
-Donate/Support Us
-The OpenAustralia Foundation depends on the generous support of a range of people and organisations. Here's some information about how you can support our work and, if you want to, find out more about aspects that may be of particular interest to you.
-case studies
-- funding from Gov 2.0 taskforce - planning alerts
-- quotation from Nicholas Gruen taskforce chair re planning alerts?
-- partnership with GCIO
-apps4nsw
-- event hosting from NICTA/Google
-hackfest - mashup australia
-hackfest - apps4nsw edition
-Events
-We offer a range of exciting events during the year and helping to create ???? For more details of these events, visit our events page.
-Our supporters
-None of what we do would be possible without the generosity of our supporters. We owe them our sincerest thanks.
+If you'd prefer to make a donation in another way please email contact@openaustraliafoundation.org.au or call Kat 0424 563 654.
+
+<Postal address for donations> 
+All donations are fully tax deductible.  We will send you a receipt for your records.
