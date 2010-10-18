@@ -130,27 +130,16 @@ Well I started to write something here, and I think someone else who has a deepe
 About
 =====
 
-Our <vision> is, quite simply, to <transform democracy in Australia>
- 
-Our mission is to give millions of Australians the tools to affect the change that they want.
-  
-The OpenAustralia Foundation is a pioneering new Australian charity, which makes tools for 21st century democracy.
- 
-The OpenAustralia Foundation is creating technologies to enable and encourage the Australian public to participate directly in, and affect the political process and solve local problems together in everyday civic life. To realise this grand vision, we have begun by developing the websites OpenAustralia.org, PlanningAlerts.org.au and ElectionLeaflets.org.au.
+The OpenAustralia Foundation is a pioneering charity whose vision is transform democracy in Australia.  Our mission is to give all Australians the tools they need to affect the change they want.  We do this by creating technologies that encourage and enable people to participate directly in the political process on a local, community and national level. 
 
-These are some of the building blocks on the road.
+We currently do this through our three websites OpenAustralia.org, Planningalerts.com.au and electionleaflets.org.au.  These websites aim at finding better ways of making government, the public sector and political information freely and easily available for the benefit of all Australians.   This transparency aims to encourage and inform people about how they can make a difference.   
+The OpenAustralia Foundation is a strictly non-partisan organization.  We are not the government, nor are we affiliated with any political party.  We are simply passionate about making our democracy work.  We believe that we can help to reinvigorate Australia's civic culture by using powerful and exciting new technologies to inform and empower people, to address the growing disconnect between Government and the people who elect it.   
 
-To do this we are finding better ways of making government, public sector and other useful information freely and easily available for the benefit of all Australians.
-
-The OpenAustralia Foundation is a charitable institution which facilitate these projects and others like it on an ongoing basis. It also is there to support the broader agenda of reinvigorating Australia's civic culture by inciting a new wave of technology for the common good. But we're not the government. We are strictly non-partisan. We are passionate about making our democracy work. We can put exciting and powerful technology in the hands of the people.
- 
-In democracies around the world there is a growing disconnect between the people who are elected to govern and those who put them there. We're part of a growing worldwide movement to help do something about that. We are part of this community.
- 
 History
- 
-Back in 2004 Matthew Landauer and Katherine Szuminska were lucky enough to accidently find themselves at the launch of the UK site TheyWorkForYou.com at a nerdy techno conference, NotCon 2004. The talk inspired them hugely and they left with a desire to make this happen in Australia too. It took a few years, other people came on board to help and here you can see the fruits of their labour.
- 
-The project was kick-started in November 2007 when Matthew, supported by his then employer Rising Sun Pictures, was given the oppurtunity to take a week of paid charity leave to develop the first, very rough, prototype of OpenAustralia.org.
+
+In 2004 Matthew Landauer and Katherine Szuminska attended the launch of TheyWorkForYou.com, a British website that encouraged people to find out what work their political representatives actually did for them.  This speech and the success of the website inspired Matthew and Kat explore the possibilities of setting up a similar site here in Australia.
+
+Three years later Matthew was given the opportunity by his then employer Rising Sun Pictures to take a week of paid charity leave.  He used this time to develop the first, very rough, prototype of OpenAustralia.org.  Since that time, with the help of volunteers and the odd charitable donation the OpenAustralia Foundation has achieved the following milestones.  
 
 <Timeline of different things we have done so far - major milestones>
 
@@ -166,26 +155,19 @@ The project was kick-started in November 2007 when Matthew, supported by his the
 * Apps4NSW Hackfest
 * 2010 Federal Election announced
 * Launch of ElectionLeaflets.org.au
- 
-The Foundation was registered in July 2009 and awarded charitable tax concessions (Deductive Gift Recipient Status and TCC) by the Australian Tax Office soon afterwards.
 
-Any donation to the Foundation over ?? is tax deductible.
- 
-In the year since our foundation, we've launched three websites, held three community hacking events, worked closely with both a Federal and State Gov2.0 initiative, spoken at numerous conferences and hooked up with some of the most talented people on the planet who through small practical daily actions, with the help of thousands of volunteers are quietly changing the world.
-
-All this with little financial backing. Imagine what could be achieved with your help!
- 
-*** From old blog ***
- 
   
+
+PUT THE REGISTRATION FOR CHARITY IN THE TIME LINE DON'T HAVE IT SEPARATE - ALSO THEGOV 2.0 STUFF 
+
 Our constitution
 ================
 
-We promise to provide free and easy access to information, in a way that's useful to you. Its written into the objects of our constitution. This is what we're here to do.
+Our constitution is the document that outlines what the purpose of our existence is.  Below we have listed what we consider to be our most important objectives - providing free and easy access to information, in a way that's useful to you. This is how we're meant to ensure this: 
 
-1. to support a nationwide open access public digital reference library for the purpose of making information relating to public bodies accessible and useful for all Australians;
+1. to support a nationwide open access public digital reference library for the purpose of making information relating to public bodies accessible and useful for all Australians; 
 
-2. to conduct research into the use and effects of information and communication technologies relating to public engagement and developing tools to enable the sharing of information for the purpose of improving such engagement;
+2. to conduct research into the use and effects of information and communication technologies relating to public engagement and developing tools to enable the sharing of information for the purpose of improving such engagement; 
 
 3. to disseminate the results and methods of this research for the benefit and education of the public;
 
@@ -195,15 +177,10 @@ We promise to provide free and easy access to information, in a way that's usefu
 
 6. to create a network for related local, online and library communities
 
-<Give a plain English explanation of objects. Explain relation of objects to rest of constitution>
+FOR A FULL VERSION OF OUR CONSTITUTION PLEASE CLICK HERE 
 
-In one way, our constitution is alot like the constitution of any non profit company. We shortened it a bit, and added some stuff about existing and doing our work online. There are also some clauses in there which specifically deal with us being a charity.
+We regard our constitution as a work in progress, one which we'd like not only to improve but also to fully reflect the needs of our constituents - you, the public.  So if you'd like to comment on our constitution or suggest any amendments or clarifications, particularly those that wiIl make it easier for all to understand, please don't hesitate to contact us. 
  
-How its different is that we consider it a working document, which we hope to improve. One day we'd like this to be readable to the average human being living in Australia as well as still legally acceptable. If you're going to have laws and expect people to adhere to them, its only reasonable that most people should be able to understand the language spoken in legal documents and in the legislation itself too. If you're a lawyer and have a passion for openness transparency and people power we'd love to hear from you. ** improve **
- 
-(links to) constitution in full - charity law - contracts we have signed - about open source and creative commons.
- 
-Read the full constitution
  
 Get Involved
 ============
